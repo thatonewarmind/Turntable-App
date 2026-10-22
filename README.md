@@ -1,2 +1,2 @@
 # Turntable App
-In-Browser Turntablke that syncs with your Spotify playlist of your choosing. 
+In-browser turntable that syncs with your Spotify playlist of your choosing.
